@@ -1,7 +1,7 @@
 ## Build Setup
 
 ``` bash
-# кланирование
+# клонирование
 git clone https://github.com/srsad/nuxt-exemple.git
 
 # установка
